@@ -1,0 +1,4 @@
+interface:
+  display_name: "精修人像"
+  short_description: "保留自然肤质与人物特征的局部精修"
+  default_prompt: "用 $portrait-retouch 自然精修这些照片，保留原构图、五官和身体轮廓。"
